@@ -1,0 +1,46 @@
+{
+  "name": "tankfairies/laravel-tcrypt",
+  "description": "Laravel Sodium encryption",
+  "type": "library",
+  "keywords": ["tcrypt"],
+  "homepage": "https://tankfairies.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jon",
+      "email": "jon@tankfairies.com",
+      "role": "lead"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/tankfairies/laravel-tcrypt/issues"
+  },
+  "prefer-stable": true,
+  "require": {
+    "php": "^8.2",
+    "tankfairies/tcrypt": "2.*",
+    "ext-sodium": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tankfairies\\LaravelTcrypt\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "codeception/codeception": "^5.1",
+    "codeception/module-phpbrowser": "^3.0",
+    "codeception/module-asserts": "^3.0"
+  },
+  "config": {
+    "platform": {
+      "php": "8.2.0"
+    },
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
