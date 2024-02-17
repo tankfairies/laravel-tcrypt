@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c7abcf77862c0078254b89f67d29dc85",
+    "content-hash": "62c3303a1b6522d189e0493fac3beb5b",
     "packages": [
         {
             "name": "tankfairies/tcrypt",
@@ -4197,7 +4197,8 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.2"
+        "php": "^8.2",
+        "ext-sodium": "*"
     },
     "platform-dev": [],
     "platform-overrides": {
