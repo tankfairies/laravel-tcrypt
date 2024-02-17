@@ -2,7 +2,7 @@
 [![Total Downloads](https://poser.pugx.org/tankfairies/laravel-tcrypt/downloads)](https://packagist.org/packages/tankfairies/laravel-tcrypt)
 [![Latest Unstable Version](https://poser.pugx.org/tankfairies/laravel-tcrypt/v/unstable)](https://packagist.org/packages/tankfairies/laravel-tcrypt)
 [![License](https://poser.pugx.org/tankfairies/laravel-tcrypt/license)](https://packagist.org/packages/tankfairies/laravel-tcrypt)
-[![Build Status](https://travis-ci.com/tankfairies/laravel-tcrypt.svg?branch=master)](https://travis-ci.com/github/tankfairies/laravel-tcrypt)
+[![Build Status](https://travis-ci.com/tankfairies/laravel-tcrypt.svg?branch=main)](https://travis-ci.com/github/tankfairies/laravel-tcrypt)
 
 # Laravel Tcrypt
 
